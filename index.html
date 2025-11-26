@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¿Cuál es tu estilo?</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Importamos TensorFlow.js y la librería de Teachable Machine -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>👔✨ ¿Cuál es tu estilo? ✨👗</h1>
+        <p>La cámara te analizará y te dirá qué estilo vistes hoy.</p>
+    </header>
+
+    <main>
+        <section id="webcam-container">
+            <!-- El video de la webcam aparecerá aquí -->
+        </section>
+
+        <section id="results-container">
+            <div id="label">Estilo: </div>
+            <div id="confidence">Confianza: </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Creado con ❤️ y Teachable Machine</p>
+    </footer>
+
+    <!-- Cargamos nuestro script al final para que el HTML se cargue primero -->
+    <script src="script.js"></script>
+</body>
+</html>
