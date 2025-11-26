@@ -12,8 +12,8 @@ async function init() {
 
     // Cargar el modelo y los metadatos
     // IMPORTANTE: Reemplaza "model.json" si tu archivo tiene otro nombre
-    const modelURL = URL + "model.json";
-    const metadataURL = URL + "metadata.json";
+    const modelURL = "./model/model.json";
+    const metadataURL = "./model/metadata.json";    
 
     try {
         model = await tmImage.load(modelURL, metadataURL);
@@ -68,4 +68,5 @@ async function predict() {
 }
 
 // Inicia la aplicación cuando la página se carga
+
 window.addEventListener("load", init);
