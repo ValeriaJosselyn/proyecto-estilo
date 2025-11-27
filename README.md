@@ -2,13 +2,13 @@
 
 Este proyecto puede visualizarse de dos formas: directamente en la web (recomendado) o en un entorno local de desarrollo.
 
-###  Ejecución en la Web (Recomendado)
+###  Ejecución en la Web 
 Para probar la aplicación funcionando, simplemente visita el siguiente enlace. No se requiere instalación:
 *(https://valeriajosselyn.github.io/proyecto-estilo/)**
 
 ---
 
-### 💻 Opción B: Ejecución Local (
+###  Ejecución Local 
 
 Si deseas descargar y ejecutar el código en tu propia máquina, sigue estos pasos.
 
