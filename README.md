@@ -1,7 +1,5 @@
 # Styletest : clasificador de estilos 
 
-## ⚙️ Instrucciones de Instalación y Ejecución
-
 Este proyecto puede visualizarse de dos formas: directamente en la web (recomendado) o en un entorno local de desarrollo.
 
 ###  Ejecución en la Web (Recomendado)
