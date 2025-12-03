@@ -40,3 +40,6 @@ Si deseas descargar y ejecutar el código en tu propia máquina, sigue estos pas
 
 3.  **Permisos:**
     Al abrir la página, el navegador te solicitará permiso para acceder a la cámara web. Debes hacer clic en "Permitir" para que el modelo funcione.
+
+
+   link de video de youtube : https://youtu.be/nXZFhTK6m5A?si=WtRMee5Q2K6kzDHX
